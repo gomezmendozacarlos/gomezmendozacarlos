@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **gomezmendozacarlos/gomezmendozacarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,6 @@ My main focus is always on delivering **high-quality solutions**. I've had the a
 
 ### Let's Connect!
 
-Interested in my work or looking to collaborate on something cool? I'd love to hear from you!
 
 🔗 Check out my online portfolio for more details and ways to get in touch:
 **[My Portfolio on GitHub Pages](https://gomezmendozacarlos.github.io/devportfolio/)**
@@ -37,5 +36,5 @@ Interested in my work or looking to collaborate on something cool? I'd love to h
 ---
 
 <div align="center">
-  <p>Thanks for stopping by my profile. Let's build something amazing together!</p>
+  <p>Thanks for stopping by my profile</p>
 </div>
