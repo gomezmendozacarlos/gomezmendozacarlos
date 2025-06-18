@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>👋 Hey there! I'm Carlos Gómez</h1>
-  <h3>JavaScript Developer | Front-End & Back-End</h3>
-</div>
+  <h3>JavaScript Developer
 
 ---
 
@@ -36,5 +35,5 @@ My main focus is always on delivering **high-quality solutions**. I've had the a
 ---
 
 <div align="center">
-  <p>Thanks for stopping by my profile</p>
+  <p>Thanks for stopping by my profile 🤜🤛</p>
 </div>
