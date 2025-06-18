@@ -28,6 +28,8 @@ I've had the opportunity to contribute to teams across various sectors, consiste
 🔗 Check out my online portfolio for more details and ways to get in touch:
 **[My Portfolio on GitHub Pages](https://gomezmendozacarlos.github.io/devportfolio/)**
 
+---
+
 <div align="center">
   <h4>Thanks for stopping by my profile 🤜🏽🤛🏽</h4>
 </div>
