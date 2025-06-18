@@ -23,7 +23,7 @@ I'm a **JavaScript** developer 👨🏽‍💻 with over a decade of experience,
 I've had the opportunity to contribute to teams across various sectors, consistently committed to innovation and staying up-to-date with the latest tech trends.
 
 
-### Let's Connect!
+### Let's Connect:exclamation:
 
 🔗 Check out my online portfolio for more details and ways to get in touch:
 **[My Portfolio on GitHub Pages](https://gomezmendozacarlos.github.io/devportfolio/)**
