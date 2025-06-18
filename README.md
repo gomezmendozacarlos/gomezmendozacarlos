@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>👋🏽 Hey there! I'm Carlos Gómez</h1>
-  <h3>JavaScript Developer 👨🏽‍💻</h3>
+</div>
 
----
-
-I'm a **JavaScript** developer with over a decade of experience, specializing in crafting scalable web applications. My expertise spans both Front-End and Back-End.
+I'm a **JavaScript** developer 👨🏽‍💻 with over a decade of experience, specializing in crafting scalable web applications. My expertise spans both Front-End and Back-End.
 
 I've had the opportunity to contribute to teams across various sectors, consistently committed to innovation and staying up-to-date with the latest tech trends.
 
