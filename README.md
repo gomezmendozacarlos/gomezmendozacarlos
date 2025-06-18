@@ -31,5 +31,5 @@ I've had the opportunity to contribute to teams across various sectors, consiste
 ---
 
 <div align="center">
-  <h2>Thanks for stopping by my profile 🤜🏽🤛🏽</h2>
+  <h4>Thanks for stopping by my profile 🤜🏽🤛🏽</h4>
 </div>
