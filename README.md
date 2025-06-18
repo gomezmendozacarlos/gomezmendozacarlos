@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>👋🏽 Hey there! I'm Carlos Gómez</h1>
-  <h3>JavaScript Developer 👨🏽‍💻
+  <h3>JavaScript Developer 👨🏽‍💻</h3>
 
 ---
 
